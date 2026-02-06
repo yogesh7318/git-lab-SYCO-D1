@@ -2,3 +2,5 @@ Welcome to GitHub
 
 
 Welcome to GitHub again
+
+Welcome to GitHub from master branch
